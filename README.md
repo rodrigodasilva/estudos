@@ -8,7 +8,8 @@ Repositório destinado a organizar links utlizados para estudo.
 
 ##### Desafios
 
-- 01 - [Conceitos de ReactJS](https://github.com/rodrigodasilva/ignite-template-reactjs-conceitos-do-react.)
+- 01 - [Conceitos de ReactJS](https://github.com/rodrigodasilva/ignite-template-reactjs-conceitos-do-react)
+- 02 - [Componentizando a aplicação](https://github.com/rodrigodasilva/ignite-template-componentizando-a-aplicacao)
 
 
 #### GoStack 11 (2020)
