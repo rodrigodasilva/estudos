@@ -10,6 +10,7 @@ Repositório destinado a organizar links utlizados para estudo.
 
 - 01 - [Conceitos de ReactJS](https://github.com/rodrigodasilva/ignite-template-reactjs-conceitos-do-react)
 - 02 - [Componentizando a aplicação](https://github.com/rodrigodasilva/ignite-template-componentizando-a-aplicacao)
+- 03 - [Criando um hook de carrinho de compras](https://github.com/rodrigodasilva/ignite-reactjs-criando-um-hook-de-carrinho-de-compra)
 
 
 #### GoStack 11 (2020)
