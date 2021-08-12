@@ -12,6 +12,9 @@ Repositório destinado a organizar links utlizados para estudo.
 - 02 - [Componentizando a aplicação](https://github.com/rodrigodasilva/ignite-template-componentizando-a-aplicacao)
 - 03 - [Criando um hook de carrinho de compras](https://github.com/rodrigodasilva/ignite-reactjs-criando-um-hook-de-carrinho-de-compra)
 
+##### Desenvolvidos em aulas
+
+- 01 - [Ignews](https://github.com/rodrigodasilva/ignite-ignews)
 
 #### GoStack 11 (2020)
 
