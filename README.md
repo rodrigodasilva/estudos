@@ -85,6 +85,10 @@ Bônus
 
 - [Melhores práticas de testes](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [Teste básico usando React Testing Library](https://medium.com/@aatifbandey/test-your-react-app-with-react-testing-library-and-jest-dom-26b92201bbe3)
+- [Redux: Testes de integração com baixo esforço e alto retorno](https://oieduardorabelo.medium.com/redux-testes-de-integrac%CC%A7a%CC%83o-com-baixo-esforc%CC%A7o-e-alto-valor-4d7c85bbb506)
+- [Unit testing in react applications](https://www.vhudyma-blog.eu/unit-testing-in-react-applications/)
+- [Best practices for unit testing with a React/Redux approach](https://willowtreeapps.com/ideas/best-practices-for-unit-testing-with-a-react-redux-approach)
+- [Testing Sagas](https://redux-saga.js.org/docs/advanced/Testing/)
 
 #### CSS
 
