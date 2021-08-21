@@ -1,6 +1,8 @@
-## 📝 Estudos
+# 📝 Estudos
 
 Repositório destinado a organizar links utlizados para estudo.
+
+## Cursos
 
 ### :rocket: Bootcamp Rocketseat
 
@@ -65,7 +67,7 @@ Bônus
 
 - [Introdução ao Flexbox](https://github.com/rodrigodasilva/flexbox)
 
-### Artigos
+## Artigos
 
 #### Javascript
 
@@ -93,6 +95,7 @@ Bônus
 #### CSS
 
 - [Metodologia BEM](https://rossener.com/bem-e-tudo-de-bom/)
+- [The styled-components Happy Path](https://www.joshwcomeau.com/css/styled-components/)
 
 #### Entrevista
 
