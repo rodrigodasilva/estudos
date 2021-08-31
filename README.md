@@ -91,6 +91,9 @@ Bônus
 - [Unit testing in react applications](https://www.vhudyma-blog.eu/unit-testing-in-react-applications/)
 - [Best practices for unit testing with a React/Redux approach](https://willowtreeapps.com/ideas/best-practices-for-unit-testing-with-a-react-redux-approach)
 - [Testing Sagas](https://redux-saga.js.org/docs/advanced/Testing/)
+- [How to know what to test](https://kentcdodds.com/blog/how-to-know-what-to-test)
+- [Write tests](https://kentcdodds.com/blog/write-tests)
+- [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
 
 #### CSS
 
