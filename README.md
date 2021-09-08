@@ -71,7 +71,6 @@ Bônus
 
 #### Javascript
 
-- [Melhores práticas de testes](https://github.com/goldbergyoni/javascript-testing-best-practices)
 - [Clean Code com Javascript](https://github.com/felipe-augusto/clean-code-javascript)
 
 #### NodeJS
