@@ -17,6 +17,7 @@ Repositório destinado a organizar links utlizados para estudo.
 ##### Desenvolvidos em aulas
 
 - 01 - [Ignews](https://github.com/rodrigodasilva/ignite-ignews)
+- 02 - [Interface com ChakraUI](https://github.com/rodrigodasilva/ignite-interface-do-futuro-chakra-ui)
 
 #### GoStack 11 (2020)
 
